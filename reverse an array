@@ -1,3 +1,4 @@
+#Given an array A of size N, print the reverse of it.
 t=int(input())
 for i in range(t):
     n = int(input())
